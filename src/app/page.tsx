@@ -4,7 +4,7 @@ import { CourseCard } from "@/components/course-card";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center gap-8 pt-12">
+    <div className="m-auto flex max-w-200 flex-col items-center gap-8 pt-12">
       <Logo />
       <h1 className="font-grenze-gotisch text-brand-primary text-5xl">
         Söguehimar

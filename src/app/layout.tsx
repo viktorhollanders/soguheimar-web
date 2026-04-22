@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Grenze_Gotisch } from "next/font/google";
 import "./globals.css";
+import { Footer } from "@/components/footer";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -26,8 +27,9 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${grenzeGotisch.variable} h-full antialiased`}
     >
-      <body className="m-auto max-w-200 px-4 md:px-24 lg:px-30">
+      <body className="px-4 md:px-24 lg:px-30">
         {children}
+        <Footer />
       </body>
     </html>
   );
