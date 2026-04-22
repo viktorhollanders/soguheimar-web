@@ -5,7 +5,7 @@ export function Logo() {
   const logoAltText = "Söguheima Logo";
 
   return (
-    <div className="relative w-14 h-14">
+    <div className="relative h-20 w-20">
       <Image
         src={logoUrl}
         width={0}
