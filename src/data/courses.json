@@ -1,0 +1,18 @@
+[
+  {
+    "title": "R",
+    "weekNumber": 1,
+    "startDate": "22. júní",
+    "endDate": "27. júní",
+    "price": 64000,
+    "link": "#"
+  },
+  {
+    "title": "R",
+    "weekNumber": 2,
+    "startDate": "30. júní ",
+    "endDate": "5. júlí",
+    "price": 64000,
+    "link": "#"
+  }
+]
