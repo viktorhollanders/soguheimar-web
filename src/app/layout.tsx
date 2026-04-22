@@ -26,7 +26,9 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${grenzeGotisch.variable} h-full antialiased`}
     >
-      <body className="px-4 md:px-24 lg:px-30">{children}</body>
+      <body className="m-auto max-w-200 px-4 md:px-24 lg:px-30">
+        {children}
+      </body>
     </html>
   );
 }
