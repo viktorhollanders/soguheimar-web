@@ -13,7 +13,7 @@ const button = cva(
         ghost:
           "font-medium hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
         primary:
-          "bg-brand-primary text-white hover:bg-brand-primary-dark border hover:border-brand-primary",
+          "bg-brand-primary text-white hover:bg-brand-primary-dark border hover:border-brand-primary-dark",
       },
       size: {
         sm: "px-6",

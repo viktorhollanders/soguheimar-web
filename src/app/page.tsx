@@ -24,8 +24,8 @@ export default function Home() {
 
       <div className="flex flex-col items-center gap-8 rounded-full">
         <div className="text-center">
-          <h3>Námskeið</h3>
-          <h2 className="font-grenze-gotisch text-[32px]">
+          <h3 className="text-2xl">Námskeið</h3>
+          <h2 className="font-grenze-gotisch text-[32px] font-medium md:text-[38px]">
             Ronja Ræningjadóttir
           </h2>
         </div>

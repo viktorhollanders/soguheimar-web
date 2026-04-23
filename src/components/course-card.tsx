@@ -24,13 +24,15 @@ export function CourseCard({ course }: { course: Course }) {
 
       <h3 className="md:text-[20px]">{`${Number(course.price).toLocaleString("de-DE")} kr.`}</h3>
 
-      <Button
-        disabled={course.link === "#"}
-        variant="primary"
-        className="w-full md:w-auto"
-      >
-        Skrá
-      </Button>
+      <a href={course.link} target="_blank" rel="noopener noreferrer">
+        <Button
+          disabled={course.link === "#"}
+          variant="primary"
+          className="w-full md:w-auto"
+        >
+          Skrá
+        </Button>
+      </a>
     </div>
   );
 }
