@@ -12,7 +12,7 @@ export function Footer() {
           <a href="mailto:example@email.com">söguheimar@gmail.com</a>
         </div>
         <div>
-          <p>Símanúmer::</p>
+          <p>Símanúmer:</p>
           <p>
             <a href="tel:8921142">892-1142</a> /{" "}
             <a href="tel:8993377">899-3377</a>
