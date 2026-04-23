@@ -2,7 +2,7 @@ import { MapPin } from "lucide-react";
 
 export function Footer() {
   return (
-    <footer className="bg-background-secondary md:gap-auto flex flex-col items-center justify-baseline gap-6 py-8 md:flex-row md:items-start md:justify-between">
+    <footer className="bg-background-secondary md:gap-auto flex flex-col items-center justify-baseline gap-6 py-8 md:flex-row md:items-start md:justify-between md:py-14">
       <div className="flex flex-col gap-4">
         <h3 className="font-grenze-gotisch text-brand-primary text-[32px]">
           Hafa samband

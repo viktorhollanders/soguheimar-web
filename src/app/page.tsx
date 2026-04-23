@@ -7,7 +7,7 @@ export default function Home() {
     <div className="m-auto flex max-w-200 flex-col items-center gap-8 pt-12">
       <Logo />
       <h1 className="font-grenze-gotisch text-brand-primary text-5xl">
-        Söguehimar
+        Sögueihmar
       </h1>
 
       <p>
