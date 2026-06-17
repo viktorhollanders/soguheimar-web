@@ -12,7 +12,7 @@ export default function Home() {
 			</h1>
 
 			<p>
-				Sumarbúðir söguheima eru sex daga ferðalag um sagnaheim ævintýrisins sem
+				Sumarbúðir Söguheima eru sex daga ferðalag um sagnaheim ævintýrisins sem
 				í boði er hverju sinni. Ævintýrið á sér stað í ævintýra dalnum í fallegu
 				umhverfi Lækjarbotna. Þar reisum við tjöldin okkar og kveikjum upp
 				varðeld undir gullnu þaki heimsins. Við ætlum að kynnast heiminum,

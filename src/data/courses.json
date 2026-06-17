@@ -1,18 +1,18 @@
 [
-  {
-    "title": "R",
-    "weekNumber": 1,
-    "startDate": "22. júní",
-    "endDate": "27. júní",
-    "price": 64000,
-    "link": "https://docs.google.com/forms/d/1vxUxj_12aMC_qmDKlLIx1Nk2wzxdfxX6EIz1QdmugXY/viewform?edit_requested=true"
-  },
-  {
-    "title": "R",
-    "weekNumber": 2,
-    "startDate": "30. júní ",
-    "endDate": "5. júlí",
-    "price": 64000,
-    "link": "https://docs.google.com/forms/d/1jd4v8j_ncEioIUExL2Zn_pyspj_ZfRBc0LYqvyHpUHk/viewform?edit_requested=true"
-  }
+	{
+		"title": "R",
+		"weekNumber": 1,
+		"startDate": "22. júní",
+		"endDate": "27. júní",
+		"price": 64000,
+		"link": "https://docs.google.com/forms/d/1vxUxj_12aMC_qmDKlLIx1Nk2wzxdfxX6EIz1QdmugXY/viewform?edit_requested=true"
+	},
+	{
+		"title": "R",
+		"weekNumber": 2,
+		"startDate": "30. júní ",
+		"endDate": "5. júlí",
+		"price": 64000,
+		"link": "https://docs.google.com/forms/d/1jd4v8j_ncEioIUExL2Zn_pyspj_ZfRBc0LYqvyHpUHk/viewform?edit_requested=true"
+	}
 ]
